@@ -1,0 +1,41 @@
+body {
+  background-color: rgba(167, 177, 108, 1);
+  color: rgba(13, 6, 11, 1);
+}
+
+header {
+  text-align: center;
+  padding: 20 20;
+  display: inline-block;
+  background-color: black;
+}
+
+.logo {
+  width: 250px;
+  height: 250px;
+  padding: 20 auto;
+}
+
+.homepageHeader {
+  display: inline;
+}
+
+.homepageIcon {
+  color: rgba(115, 68, 68, 1);
+}
+
+a {
+  color: rgba(13, 6, 11, 1);
+  text-decoration: none;
+}
+a:visited {
+  color: rgba(115, 68, 68, 1);
+  text-decoration: none;
+}
+a:hover {
+  color: rgba(195, 120, 87, 1);
+}
+a:active {
+  color: rgba(13, 6, 11, 1);
+  text-decoration: none;
+}
